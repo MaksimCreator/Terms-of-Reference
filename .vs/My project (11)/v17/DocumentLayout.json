@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\veche\\My project (11)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|c:\\users\\veche\\my project (11)\\assets\\source\\installer\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\installer\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\installer\\gameplayinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\installer\\gameplayinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\input\\inputrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\input\\inputrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\controller\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\controller\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\model\\inventary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\inventary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\view\\itemview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\view\\itemview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\view\\entityview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\view\\entityview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\view\\factory\\tranformableviewfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\view\\factory\\tranformableviewfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\veche\\My project (11)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\model\\itemprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\itemprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\model\\entity\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\entity\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\model\\entity\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\entity\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\entrypoint\\gameplayentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\entrypoint\\gameplayentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\config\\itemsspawnconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\config\\itemsspawnconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\model\\itemspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\itemspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\config\\characterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\config\\characterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\view\\factory\\itemviewfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\view\\factory\\itemviewfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\model\\pointsspawnitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\pointsspawnitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\model\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\modelview\\interface\\icharacteinitializemodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\modelview\\interface\\icharacteinitializemodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\modelview\\charactermodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\modelview\\charactermodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\modelview\\interface\\icharacterdatamodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\modelview\\interface\\icharacterdatamodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\model\\movement\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\movement\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\input\\interface\\iinputevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\input\\interface\\iinputevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\model\\gameevents\\icontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\gameevents\\icontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\model\\gameevents\\ideltaupdateble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\gameevents\\ideltaupdateble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|C:\\Users\\veche\\My project (11)\\assets\\source\\input\\interface\\iinputcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\input\\interface\\iinputcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\veche\\My project (11)\\assets\\source\\view\\factory\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\source\\view\\factory\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\veche\\My project (11)\\assets\\source\\model\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\source\\model\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventary.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\Inventary.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Model\\Inventary.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\Inventary.cs",
+              "RelativeToolTip": "Assets\\Source\\Model\\Inventary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:55:31.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseInput.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAewEoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:40:33.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\Entity\\Entity.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Model\\Entity\\Entity.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\Entity\\Entity.cs",
+              "RelativeToolTip": "Assets\\Source\\Model\\Entity\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:30:09.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemsSpawnConfig.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Config\\ItemsSpawnConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Config\\ItemsSpawnConfig.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Config\\ItemsSpawnConfig.cs",
+              "RelativeToolTip": "Assets\\Source\\Config\\ItemsSpawnConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:05:06.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ItemSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\ItemSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Model\\ItemSpawner.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\ItemSpawner.cs",
+              "RelativeToolTip": "Assets\\Source\\Model\\ItemSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:46:28.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemView.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\View\\ItemView.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\View\\ItemView.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\View\\ItemView.cs",
+              "RelativeToolTip": "Assets\\Source\\View\\ItemView.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:04:56.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ItemViewFactory.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\View\\Factory\\ItemViewFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\View\\Factory\\ItemViewFactory.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\View\\Factory\\ItemViewFactory.cs",
+              "RelativeToolTip": "Assets\\Source\\View\\Factory\\ItemViewFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:54:36.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICharacteInitializeModelView.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\ModelView\\Interface\\ICharacteInitializeModelView.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\ModelView\\Interface\\ICharacteInitializeModelView.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\ModelView\\Interface\\ICharacteInitializeModelView.cs",
+              "RelativeToolTip": "Assets\\Source\\ModelView\\Interface\\ICharacteInitializeModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:54:43.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CharacterModelView.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\ModelView\\CharacterModelView.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\ModelView\\CharacterModelView.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\ModelView\\CharacterModelView.cs",
+              "RelativeToolTip": "Assets\\Source\\ModelView\\CharacterModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAtwA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:52:36.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICharacterDataModelView.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\ModelView\\Interface\\ICharacterDataModelView.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\ModelView\\Interface\\ICharacterDataModelView.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\ModelView\\Interface\\ICharacterDataModelView.cs",
+              "RelativeToolTip": "Assets\\Source\\ModelView\\Interface\\ICharacterDataModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:48:21.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\Entity\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Model\\Entity\\Character.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\Entity\\Character.cs",
+              "RelativeToolTip": "Assets\\Source\\Model\\Entity\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:47:03.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemProvider.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\ItemProvider.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Model\\ItemProvider.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\ItemProvider.cs",
+              "RelativeToolTip": "Assets\\Source\\Model\\ItemProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:45:47.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\Config.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Model\\Config.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\Config.cs",
+              "RelativeToolTip": "Assets\\Source\\Model\\Config.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:04:58.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PointsSpawnItem.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\PointsSpawnItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Model\\PointsSpawnItem.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\PointsSpawnItem.cs",
+              "RelativeToolTip": "Assets\\Source\\Model\\PointsSpawnItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:56:28.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameplayEntryPoint.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\EntryPoint\\GameplayEntryPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\EntryPoint\\GameplayEntryPoint.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\EntryPoint\\GameplayEntryPoint.cs",
+              "RelativeToolTip": "Assets\\Source\\EntryPoint\\GameplayEntryPoint.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA8AAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:59:49.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Manager\\GameManager.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Source\\Manager\\GameManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIA0wBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:28:11.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IControl.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\GameEvents\\IControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Model\\GameEvents\\IControl.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\GameEvents\\IControl.cs",
+              "RelativeToolTip": "Assets\\Source\\Model\\GameEvents\\IControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:38:27.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IDeltaUpdateble.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\GameEvents\\IDeltaUpdateble.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Model\\GameEvents\\IDeltaUpdateble.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\GameEvents\\IDeltaUpdateble.cs",
+              "RelativeToolTip": "Assets\\Source\\Model\\GameEvents\\IDeltaUpdateble.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:37:43.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Controller\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Controller\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Controller\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Source\\Controller\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:35:39.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Model\\Character.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\Character.cs",
+              "RelativeToolTip": "Assets\\Source\\Model\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:33:33.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\View\\Factory\\Entity.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\View\\Factory\\Entity.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\View\\Factory\\Entity.cs",
+              "RelativeToolTip": "Assets\\Source\\View\\Factory\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:32:29.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TranformableViewFactory.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\View\\Factory\\TranformableViewFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\View\\Factory\\TranformableViewFactory.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\View\\Factory\\TranformableViewFactory.cs",
+              "RelativeToolTip": "Assets\\Source\\View\\Factory\\TranformableViewFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:04:12.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityView.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\View\\EntityView.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\View\\EntityView.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\View\\EntityView.cs",
+              "RelativeToolTip": "Assets\\Source\\View\\EntityView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:39:47.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CharacterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Config\\CharacterConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Config\\CharacterConfig.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Config\\CharacterConfig.cs",
+              "RelativeToolTip": "Assets\\Source\\Config\\CharacterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:27:56.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IInputEvents.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Input\\Interface\\IInputEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Input\\Interface\\IInputEvents.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Input\\Interface\\IInputEvents.cs",
+              "RelativeToolTip": "Assets\\Source\\Input\\Interface\\IInputEvents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:35:20.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IInputControl.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Input\\Interface\\IInputControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Input\\Interface\\IInputControl.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Input\\Interface\\IInputControl.cs",
+              "RelativeToolTip": "Assets\\Source\\Input\\Interface\\IInputControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:32:44.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Installer\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Installer\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Installer\\ProjectInstaller.cs",
+              "RelativeToolTip": "Assets\\Source\\Installer\\ProjectInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:29:30.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameplayInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Installer\\GameplayInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Installer\\GameplayInstaller.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Installer\\GameplayInstaller.cs",
+              "RelativeToolTip": "Assets\\Source\\Installer\\GameplayInstaller.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:23:11.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CharacterMovement.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\Movement\\CharacterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Model\\Movement\\CharacterMovement.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Model\\Movement\\CharacterMovement.cs",
+              "RelativeToolTip": "Assets\\Source\\Model\\Movement\\CharacterMovement.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAewCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:15:51.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputRouter.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Input\\InputRouter.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Input\\InputRouter.cs",
+              "ToolTip": "C:\\Users\\veche\\My project (11)\\Assets\\Source\\Input\\InputRouter.cs",
+              "RelativeToolTip": "Assets\\Source\\Input\\InputRouter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:07:29.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
